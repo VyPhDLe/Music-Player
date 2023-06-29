@@ -37,10 +37,6 @@ The Music Player App is built using the following technologies:
 - Font Awesome (for icons)
 - Google Fonts (for typography)
 
-## Credits
-
-This app was created by [Your Name]. It is inspired by various music player interfaces and developed using web technologies.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
